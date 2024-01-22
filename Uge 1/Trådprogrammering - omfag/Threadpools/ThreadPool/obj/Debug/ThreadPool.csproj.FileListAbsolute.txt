@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\Threadpools\ThreadPool\obj\Debug\ThreadPool.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\Threadpools\ThreadPool\obj\Debug\ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\Threadpools\ThreadPool\bin\Debug\ThreadPool.exe.config
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\Threadpools\ThreadPool\bin\Debug\ThreadPool.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\Threadpools\ThreadPool\bin\Debug\ThreadPool.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\Threadpools\ThreadPool\obj\Debug\ThreadPool.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\Threadpools\ThreadPool\obj\Debug\ThreadPool.pdb
