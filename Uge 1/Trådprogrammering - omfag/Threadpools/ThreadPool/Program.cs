@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Threading;
 using System.Diagnostics;
+using System.Runtime.CompilerServices;
+using System.Net;
 
 namespace ThreadPooling
 {
@@ -88,7 +90,6 @@ namespace ThreadPooling
     }
     */
     #endregion
-
     #region Opgave 1: Besvarelse
     /*
      * Skal metoden Process() tage et object som argument, begrund dit svar?
@@ -138,7 +139,6 @@ namespace ThreadPooling
     }
     */
     #endregion
-
     #region Opgave 2 - Udvidelse #1
     /*
     class Program
@@ -181,7 +181,6 @@ namespace ThreadPooling
     }
     */
     #endregion
-
     #region Opgave 2 - Udvidelse #2
     /*
     class Program
@@ -225,6 +224,8 @@ namespace ThreadPooling
     */
     #endregion
 
+    #region Opgave 3
+
     class Program
     {
         static void Main(string[] args)
@@ -260,6 +261,27 @@ namespace ThreadPooling
         }
         static void Process(object callback)
         {
+            // Convert booleans to "Yes"/"No" strings
+            string boolYesNo(bool unit) {
+                if (unit == true) { return "Yes"; }
+                else { return "No";  }
+            }
+            // Output requirements
+            Console.WriteLine("Is the thread alive:" + boolYesNo(Thread.CurrentThread.IsAlive));
+            Console.WriteLine("Is the thread running in the background: " + boolYesNo(Thread.CurrentThread.IsBackground));
+            Console.WriteLine("Which priority does the thread have: " + Thread.CurrentThread.Priority.ToString());
         }
+
     }
+    #endregion
+    #region Opgave 3 - Besvarelse
+    /*
+        Start()   - Starter tråden
+        Sleep()   - Pauser tråden i x antal tid
+        Suspend() - Pauser tråden indtil den resumes - Er markeret obsolete, og anbefales ikke længere.
+        Resume()  - Sætter en pauset tråd igang igen - Er markeret obsolete, og anbefales ikke længere.
+        Abort()   - Dropper tråden og smider den til garbage collectoren
+        Join()    - Hovedtråden vil afvente at den pågældende tråd kører færdigt, før hovedtråden fortsætter afvikling af sin programkode.
+    */
+    #endregion
 }
