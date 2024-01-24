@@ -21,22 +21,11 @@
 
             #region Opgave 2: Med wait og pulse
             BufferQueueWithPulse buffer1 = new BufferQueueWithPulse(1, true);
-            #endregion
             ProducerWithPulse producer1 = new ProducerWithPulse(1, buffer1, 0, 10, random);
-           // ProducerWithPulse producer2 = new ProducerWithPulse(2, buffer1, 0, 10, random);
-            //ProducerWithPulse producer3 = new ProducerWithPulse(3, buffer1, 0, 10, random);
             ConsumerWithPulse consumer1 = new ConsumerWithPulse(1, buffer1, 1);
-           // ConsumerWithPulse consumer2 = new ConsumerWithPulse(2, buffer1, 1);
-           // ConsumerWithPulse consumer3 = new ConsumerWithPulse(3, buffer1, 1);
-
-
             producer1.StartProduce();
-          //  producer2.StartProduce();
-          //  producer3.StartProduce();
             consumer1.StartConsuming();
-           // consumer2.StartConsuming();
-           // consumer3.StartConsuming();
-
+            #endregion
             Console.ReadKey();
         }
     }
