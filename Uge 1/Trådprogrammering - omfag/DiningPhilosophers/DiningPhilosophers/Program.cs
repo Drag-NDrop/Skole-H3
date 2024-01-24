@@ -41,7 +41,7 @@ namespace DiningPhilosophers
 
             internal void Ponder() {
                 // Simulate a philisophical question that demands immediate pondering.
-                int introspectrumTime = this._randomThought.Next(10,1000);
+                int introspectrumTime = this._randomThought.Next(3,10);
                 Console.WriteLine($"💤 🕑 💤: Philosopher #{this._id} ponders existence.......");
                 Console.WriteLine("------------------------------------------------------------");
                 Thread.Sleep(introspectrumTime);
