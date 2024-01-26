@@ -33,20 +33,20 @@ namespace Flaskeautomaten
         /// <param name="callback"></param>
         /// <exception cref="Exception"></exception>
         internal void ProduceUnit(object callback) {
-            while (Program.ProductionCount < Program.BatchSize)
+            while (Program.ShouldStop != true)
             {
                 Bottle producedUnit = null;
                 switch (this._random.Next(_rndRangeMin, _rndRangeMax))
                 {
                     case 0:
                         {
-                            producedUnit = new Soda(Program.IncProductionCount, this._producerId);
+                            producedUnit = new Soda(Program.IncProductionCount, "Soda", this._producerId);
                             Console.WriteLine($"Producer #{this._producerId} : produced a soda bottle...");
                             break;
                         }
                     case 1:
                         {
-                            producedUnit = new Beer(Program.IncProductionCount, this._producerId);
+                            producedUnit = new Beer(Program.IncProductionCount,"Beer", this._producerId);
                             Console.WriteLine($"Producer #{this._producerId} : produced a beer bottle...");
                             break;
                         }

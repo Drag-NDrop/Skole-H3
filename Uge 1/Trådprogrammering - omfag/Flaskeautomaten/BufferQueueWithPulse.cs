@@ -58,7 +58,6 @@ namespace Flaskeautomaten
             this.Type = type;
         }
         public void Add(Bottle unit) {
-            Thread.Sleep(20);
             try
             {
                 lock (this._lock)// Waits until it can enter the lock. Thread is now locked.

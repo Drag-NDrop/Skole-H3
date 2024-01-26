@@ -37,6 +37,19 @@ namespace Flaskeautomaten
                                 _outputBuffers.FirstOrDefault(x => x.Type == bottle.Type).Add(bottle);
                                             // In this context, x is a BufferQueueWithPulse object.
                             }
+
+                            catch (NullReferenceException ex)
+                            {
+                                if (ex.HResult == -2147467261)
+                                {
+                                    // Handle the specific NullReferenceException with HRESULT -2147467261
+                                    Console.WriteLine("Caught NullReferenceException with specific HRESULT");
+                                    Console.WriteLine("Does the expected unit type of the output buffer, correspond with the unit type from your producers/input buffers?");
+                                }
+
+                                else throw;
+                            }
+                            
                             catch (Exception)
                             {
                                 Console.WriteLine("Something happened in the prosumer(the splitter)" );

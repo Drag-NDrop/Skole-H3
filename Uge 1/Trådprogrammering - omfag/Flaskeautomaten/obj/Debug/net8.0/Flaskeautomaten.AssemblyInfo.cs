@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Flaskeautomaten")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f01971abecc3cc86b0ab7da87420a4861cf5680e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0759b1260a9839c5039a6d93161b3c4c1e49941")]
 [assembly: System.Reflection.AssemblyProductAttribute("Flaskeautomaten")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Flaskeautomaten")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

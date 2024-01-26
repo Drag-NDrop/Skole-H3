@@ -4,7 +4,7 @@
     {
         internal static Random random = new Random();
         private static int productionCount = 0;
-        private static int _batchSize = 100000;
+        private static int _batchSize = 1000000;
 
         internal static bool ShouldStop = false;
         public static int BatchSize
@@ -24,7 +24,11 @@
         {
             get
             {
-                Interlocked.Increment(ref productionCount);
+                int shouldStopCounter = Interlocked.Increment(ref productionCount);
+                if (shouldStopCounter >= BatchSize)
+                {
+                    ShouldStop = true;
+                }
                 return productionCount;
             }
         }
@@ -43,45 +47,46 @@
         {
             // InputSlot buffers
             BufferQueueWithPulse inputSlot = new BufferQueueWithPulse(1, true); // Id: 1, Verbose: true
-            
-                // Get it ready for the prosumer
-                List<BufferQueueWithPulse> InputBuffers = new List<BufferQueueWithPulse>
-                {
-                    inputSlot
-                };
 
+            // Get it ready for the prosumer
+            List<BufferQueueWithPulse> InputBuffers = new List<BufferQueueWithPulse>
+            {
+                inputSlot
+            };
 
             // Producers
             ProducerWithPulse bottleProducer1 = new ProducerWithPulse(1, inputSlot, 0, 2, random); // Id : 1, Buffer: InputSlot, Min: 0, Max: 10, Random: random
 
-                
-
             // Prosumer buffers
-
-                // Sorting buffers
-                BufferQueueWithPulse beerBuffer = new BufferQueueWithPulse(1, true, "Beer"); // Id: 1, Verbose: true
-                BufferQueueWithPulse sodaBuffer = new BufferQueueWithPulse(2, true, "Soda"); // Id: 1, Verbose: true
-                
-                    // Get it ready for the prosumer
-                    List<BufferQueueWithPulse> sortingBuffers = new List<BufferQueueWithPulse> {
+            // Sorting buffers
+            BufferQueueWithPulse beerBuffer = new BufferQueueWithPulse(1, true, "Beer"); // Id: 1, Verbose: true
+            BufferQueueWithPulse sodaBuffer = new BufferQueueWithPulse(2, true, "Soda"); // Id: 1, Verbose: true
+                                                                                         // Get it ready for the prosumer
+            List<BufferQueueWithPulse> sortingBuffers = new List<BufferQueueWithPulse> {
                         beerBuffer,
                         sodaBuffer
-                    };
+            };
 
-                        
+
             // Prosumer (Splitter)
             ProsumerWithPulse prosumer1 = new ProsumerWithPulse(InputBuffers, sortingBuffers);
 
-            ConsumerWithPulse beerConsumer1 = new ConsumerWithPulse(1, beerBuffer, 1); // Id : 1, Buffer: BeerBuffer, Min: 0, Max: 10, Random: random
-            ConsumerWithPulse sodaConsumer2 = new ConsumerWithPulse(2, sodaBuffer, 1); // Id : 1, Buffer: BeerBuffer, Min: 0, Max: 10, Random: random
+            ConsumerWithPulse beerConsumer1 = new ConsumerWithPulse(1, beerBuffer, 1); // Id : 1, Buffer: BeerBuffer, Amount of units to consume per cycle: 1
+            ConsumerWithPulse sodaConsumer1 = new ConsumerWithPulse(2, sodaBuffer, 1); // Id : 1, Buffer: SodaBuffer, Amount of units to consume per cycle: 1
 
             bottleProducer1.StartProduce();
             prosumer1.StartSorting();
 
             beerConsumer1.StartConsuming();
-            sodaConsumer2.StartConsuming();
+            sodaConsumer1.StartConsuming();
 
-            Console.ReadKey();
+            while (ShouldStop != true)
+            {
+                Thread.Sleep(1000);
+            }
+            Console.WriteLine("Finished production.");
+            Console.WriteLine($"Total produced: {ProductionCount}");
+            Console.WriteLine($"Total consumed: {beerConsumer1.UnitsConsumed + sodaConsumer1.UnitsConsumed}");
         }
     }
 }

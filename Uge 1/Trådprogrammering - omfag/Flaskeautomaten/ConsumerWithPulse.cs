@@ -12,7 +12,20 @@ namespace Flaskeautomaten
         bool _verbose = false;
         int _amountToConsume = 0;
         int _consumerId;
-            
+        int _unitsConsumed = 0;
+
+        public int UnitsConsumed
+        {
+            get
+            {
+                return _unitsConsumed;
+            }
+
+            set
+            {
+                Interlocked.Increment(ref _unitsConsumed);
+            }
+        }
 
         public ConsumerWithPulse(int consumerId, BufferQueueWithPulse buffer, int amountToConsume)
         {
@@ -31,13 +44,13 @@ namespace Flaskeautomaten
         /// </summary>
         internal void Consume(object callback)
         {
-            for (int i = 0; i < 100000; i++)
+            while(Program.ShouldStop != true)
             {
                 Bottle unit = this._buffer.Remove();
+                this.UnitsConsumed++;
                 Console.WriteLine($"Consumer #{this._consumerId} : Consumed a {unit.Type}...");
             }
             Console.WriteLine($"➤ Consumer #{this._consumerId} : Is done consuming...");
-                
         }
     }
 }

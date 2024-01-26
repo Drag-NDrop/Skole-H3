@@ -6,71 +6,27 @@ using System.Threading.Tasks;
 
 namespace Flaskeautomaten
 {
-    internal abstract class Bottle
+    internal abstract class Bottle : Unit
     {
-        int _id;
-        int _producerId;
-        string type = "plain";
-
-        public Bottle(int id, int producerId)
+        public Bottle(int id, string name, int producerId) : base(id, name, producerId)
         {
-            this.Id = id;
-            this.ProducerId = producerId;
-        }
-
-        public int Id
-        {
-            get
-            {
-                return _id;
-            }
-
-            private set
-            {
-                _id = value;
-            }
-        }
-
-        public int ProducerId
-        {
-            get
-            {
-                return _producerId;
-            }
-
-            private set
-            {
-                _producerId = value;
-            }
-        }
-
-        public string Type
-        {
-            get
-            {
-                return type;
-            }
-
-            internal set
-            {
-                type = value;
-            }
+            this.Type = name;
         }
     }
 
     internal class Soda : Bottle
     {
-        public Soda(int id, int producerId) : base(id, producerId)
+        public Soda(int id, string name, int producerId) : base(id, name, producerId)
         {
-            this.Type = "Soda";
+            this.Type = name;
         }
     }
 
     internal class Beer : Bottle
     {
-        public Beer(int id, int producerId) : base(id, producerId)
+        public Beer(int id, string name, int producerId) : base(id, name, producerId)
         {
-            this.Type = "Beer";
+            this.Type = name;
         }
     }
 }
