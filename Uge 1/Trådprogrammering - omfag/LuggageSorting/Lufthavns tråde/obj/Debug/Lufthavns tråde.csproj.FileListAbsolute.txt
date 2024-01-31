@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\obj\Debug\Lufthavns tråde.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\obj\Debug\Lufthavns tråde_MarkupCompile.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\obj\Debug\Lufthavns tråde_MarkupCompile.lref
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\bin\Debug\Lufthavns tråde.exe.config
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\bin\Debug\Lufthavns tråde.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\bin\Debug\Lufthavns tråde.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\obj\Debug\Lufthavns tråde.g.resources
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\obj\Debug\Lufthavns_tråde.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\obj\Debug\Lufthavns tråde.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\obj\Debug\Lufthavns tråde.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\obj\Debug\Lufthavns tråde.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 1\Trådprogrammering - omfag\LuggageSorting\Lufthavns tråde\obj\Debug\Lufthavns tråde.pdb
