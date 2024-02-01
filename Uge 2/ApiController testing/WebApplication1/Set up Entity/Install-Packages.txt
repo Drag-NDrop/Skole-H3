@@ -1,0 +1,15 @@
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.Tools
+
+
+Scaffold-DbContext "Server=.\SQLExpress;Database=testapi_db;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+Scaffold-DbContext "Data Source=asg-rdp-01;Initial Catalog=testapi_db;Integrated Security=True;Encrypt=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+Hvis der er problemer med connectionstring, så tilføj serveren direkte i Visual Studio..
+Herefter kan du på forbindelsesobjektet finde en fungerende connectiongstring i properties vinduet.
+Som kan kopieres ind i appsettings.json filen.
+
+```
