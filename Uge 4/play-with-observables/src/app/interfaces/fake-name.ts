@@ -1,0 +1,37 @@
+export interface FakeName {
+  name: string | null;
+  address: string | null;
+  latitude: string | null;
+  longitude: string | null;
+  maiden_name: string | null;
+  birth_date: string | null;
+  phone_h: string | null;
+  phone_w: string | null;
+  email_h: string | null;
+  email_w: string | null;
+  email_u: string | null;
+  email_: string | null;
+  username: string | null;
+  password: string | null;
+  domain: string | null;
+  useragent: string | null;
+  ipv4: string | null;
+  macaddress: string | null;
+  plasticcard: string | null;
+  cardexpir: string | null;
+  bonus: string | null;
+  company: string | null;
+  color: string | null;
+  uuid: string | null;
+  height: string | null;
+  weight: string | null;
+  blood: string | null;
+  eye: string | null;
+  hair: string | null;
+  pict: string | null;
+  url: string | null;
+  sport: string | null;
+  ipv4_url: string | null;
+  email_url: string | null;
+  domain_url: string | null;
+}

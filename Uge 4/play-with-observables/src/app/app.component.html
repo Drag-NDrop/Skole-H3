@@ -1,0 +1,5 @@
+<br><br>
+
+<div *ngFor="let participant of participants$ | async">
+  {{participant.id}} <span>{{participant.name}}</span><span>&nbsp; is teacher? {{participant.teacher}}</span>
+</div>

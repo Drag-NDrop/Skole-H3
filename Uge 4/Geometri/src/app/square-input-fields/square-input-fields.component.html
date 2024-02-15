@@ -1,0 +1,17 @@
+<p>square-input-fields & Geometry components, at your service!</p>
+
+<!-- Create input fields and map them to a model each-->
+<input type="text" name="squareHeight" [(ngModel)]="squareHeight" placeholder="Enter the height of the square">
+<input type="text" name="squareWidth"  [(ngModel)]="squareWidth" placeholder="Enter the width of the square">
+
+<!-- Create a button to trigger the calculation -->
+<button class="square-calculate" (click)="whenClicked(squareHeight, squareWidth)">Calculate</button>
+
+<!-- Create a fieldset to display the result -->
+<fieldset>
+  <legend>Result</legend>
+  <p class="square-area">Area: {{ resultSquareArea }}</p>
+  <p class="square-perimeter">Perimeter: {{resultSquareCircumference}}</p>
+</fieldset>
+
+

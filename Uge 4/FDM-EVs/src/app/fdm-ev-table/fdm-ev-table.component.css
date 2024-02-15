@@ -1,0 +1,15 @@
+tr:nth-child(even) {
+  background-color: #db8411;
+  }
+
+
+  tr:nth-child(odd) {
+    background-color: #111616;
+    color: #39db119c;
+    }
+
+
+    * {margin:0;padding:0;border:0;border-collapse:collapse;}
+table { width:100%; }
+thead { background: -webkit-linear-gradient(left, rgba(222,22,22,1) 0%, rgba(222,222,222,0) 20%, rgba(222,222,222,0) 80%, rgba(222,222,222,1) 100%); }
+thead tr, thead th { background:transparent; }

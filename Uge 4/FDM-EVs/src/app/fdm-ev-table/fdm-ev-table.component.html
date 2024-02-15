@@ -1,0 +1,15 @@
+<p>fdm-ev-table works!</p>
+
+<table>
+  <th>Model</th>
+  <th>Quantity</th>
+  <th>Change Quantity Percent</th>
+  <th>Rank</th>
+    <!--Insert ecars interface data in table-->
+    <tr *ngFor="let car of subscriber$ | async; let even = even; let odd = odd" [ngClass]="{ odd: odd, even: even }">
+      <td>{{car.model}}</td>
+      <td>{{car.quantity}}</td>
+      <td>{{car.changeQuantityPercent}}</td>
+      <td>{{car.rank}}</td>
+    </tr>
+</table>

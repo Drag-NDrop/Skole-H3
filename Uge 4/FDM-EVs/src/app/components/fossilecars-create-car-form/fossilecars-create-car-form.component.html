@@ -1,0 +1,20 @@
+<legend>Insert New Car:</legend>
+
+<div [formGroup]="insertNewCarGroup">
+  <label for="rank">Rank: </label>
+  <input id="rank" type="text" formControlName="rank">
+
+  <label for="model">Model: </label>
+  <input id="model" type="text" formControlName="model">
+
+  <label for="quantity">Quantity: </label>
+  <input id="quantity" type="text" formControlName="quantity">
+
+  <label for="changeQuantityPercent">ChangeQuantityPercent: </label>
+  <input id="changeQuantityPercent" type="text" formControlName="changeQuantityPercent">
+
+<!--InsertNewCarGroupSubmit-->
+  <button mat-raised-button color="primary" (click)="addNewCar()" [disabled]="!insertNewCarGroup.valid">Add Row</button>
+
+
+</div>

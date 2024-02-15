@@ -1,0 +1,7 @@
+Packages.json indeholder dependencies/libraries til projektd-data-table
+
+
+Et modul er en afgrænsning af komponenter
+opret komponent:
+ng g c component navn
+
