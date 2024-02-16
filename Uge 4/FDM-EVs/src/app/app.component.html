@@ -1,14 +1,19 @@
-<app-fossilecars></app-fossilecars>
+
 <!--  <app-fdm-ev-table-material></app-fdm-ev-table-material> -->
 <!-- <app-fdm-ev-table></app-fdm-ev-table> -->
+
+<mat-tab-group>
+  <mat-tab label="Electrical Cars">
+    <app-fdm-ev-table-material></app-fdm-ev-table-material>
+  </mat-tab>
+  <mat-tab label="Fossil Cars">
+    <app-fossilecars></app-fossilecars>
 
 
 <svg
   class="bokeh"
   viewBox="0 0 10 10"
-  xmlns="http://www.w3.org/2000/svg"
-
-     >
+  xmlns="http://www.w3.org/2000/svg">
 
   <circle cx="10%" cy="85%" r="75%"  />
   <circle cx="45%" cy="50%" r="15%"   />
@@ -24,11 +29,10 @@
 </svg>
 
 <section>
-
-
-
           <h1>Martin Sandgaard</h1>
 
 </section>
+</mat-tab>
+</mat-tab-group>
 
 <router-outlet />

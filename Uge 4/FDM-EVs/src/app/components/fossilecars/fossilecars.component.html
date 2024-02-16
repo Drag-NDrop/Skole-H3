@@ -1,70 +1,72 @@
 
-<p>fossilecars works!</p>
-<app-fossilecars-create-car-form (newCarAddedEvent)="insertNewCarFormGroupSubmit($event)"></app-fossilecars-create-car-form>
-<app-seed-button (seedDbEvent)="seedDb()"></app-seed-button>
-<app-delete-button (deleteDbEvent)="deleteDb()"></app-delete-button>
 
-<!-- <button mat-raised-button color="primary" (click)="insertNewCar()">Add Row</button> -->
-<!-- Bind events emitted from child forms, to API function calls -
 
-<app-fossilecars-update-car-form (updateCarEvent)="updateCarFormGroupSubmit($event)"></app-fossilecars-update-car-form>
--->
+  <app-fossilecars-create-car-form (newCarAddedEvent)="insertNewCarFormGroupSubmit($event)"></app-fossilecars-create-car-form>
+  <app-seed-button (seedDbEvent)="seedDb()"></app-seed-button>
+  <app-delete-button (deleteDbEvent)="deleteDb()"></app-delete-button>
 
-<table mat-table color="primary"
-       [dataSource]="dataSource"
-       multiTemplateDataRows
-       matSort
-       class="mat-elevation-z8 mat-table">
-  @for (column of displayedColumns; track column) {
-    <ng-container matColumnDef="{{column}}">
-      <th color="accent" mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by value" class="mat-header-cell"> {{column}} </th>
-      <td mat-cell *matCellDef="let element" class="mat-cell"> {{element[column]}} </td>
+  <!-- <button mat-raised-button color="primary" (click)="insertNewCar()">Add Row</button> -->
+  <!-- Bind events emitted from child forms, to API function calls -
+
+  <app-fossilecars-update-car-form (updateCarEvent)="updateCarFormGroupSubmit($event)"></app-fossilecars-update-car-form>
+  -->
+
+  <table mat-table color="primary"
+        [dataSource]="dataSource"
+        multiTemplateDataRows
+        matSort
+        class="mat-elevation-z8 mat-table">
+    @for (column of displayedColumns; track column) {
+      <ng-container matColumnDef="{{column}}">
+        <th color="accent" mat-header-cell *matHeaderCellDef mat-sort-header sortActionDescription="Sort by value" class="mat-header-cell"> {{column}} </th>
+        <td mat-cell *matCellDef="let element" class="mat-cell"> {{element[column]}} </td>
+      </ng-container>
+    }
+    <ng-container matColumnDef="expand">
+      <th mat-header-cell *matHeaderCellDef aria-label="row actions">&nbsp;</th>
+      <td mat-cell *matCellDef="let element">
+        <button mat-icon-button aria-label="expand row" (click)="(expandedElement = expandedElement === element ? null : element); $event.stopPropagation()">
+          @if (expandedElement === element) {
+            <mat-icon>keyboard_arrow_up</mat-icon>
+          } @else {
+            <mat-icon>keyboard_arrow_down</mat-icon>
+          }
+        </button>
+      </td>
     </ng-container>
-  }
-  <ng-container matColumnDef="expand">
-    <th mat-header-cell *matHeaderCellDef aria-label="row actions">&nbsp;</th>
-    <td mat-cell *matCellDef="let element">
-      <button mat-icon-button aria-label="expand row" (click)="(expandedElement = expandedElement === element ? null : element); $event.stopPropagation()">
-        @if (expandedElement === element) {
-          <mat-icon>keyboard_arrow_up</mat-icon>
-        } @else {
-          <mat-icon>keyboard_arrow_down</mat-icon>
-        }
-      </button>
-    </td>
-  </ng-container>
 
-  <!-- Expanded Content Column - The detail row is made up of this one column that spans across all columns -->
-  <ng-container matColumnDef="expandedDetail">
-    <td mat-cell *matCellDef="let element" [attr.colspan]="columnsToDisplayWithExpand.length">
-      <div class="example-element-detail"
-           [@detailExpand]="element == expandedElement ? 'expanded' : 'collapsed'">
-      <!--  <app-fossilecars-update-car-form [carData]="element "></app-fossilecars-update-car-form>
-        <app-fossilecars-update-car-form (updateCarEvent)="updateCarFormGroupSubmit($event)"></app-fossilecars-update-car-form>
-      -->
-        <app-fossilecars-update-car-form
-          [carData]="element"
-          (updateCarEvent)="updateCarFormGroupSubmit($event)"
-          (deleteCarEvent)="deleteCar($event)"
-          >
-        </app-fossilecars-update-car-form>
-      </div>
-    </td>
-  </ng-container>
+    <!-- Expanded Content Column - The detail row is made up of this one column that spans across all columns -->
+    <ng-container matColumnDef="expandedDetail">
+      <td mat-cell *matCellDef="let element" [attr.colspan]="columnsToDisplayWithExpand.length">
+        <div class="example-element-detail"
+            [@detailExpand]="element == expandedElement ? 'expanded' : 'collapsed'">
+        <!--  <app-fossilecars-update-car-form [carData]="element "></app-fossilecars-update-car-form>
+          <app-fossilecars-update-car-form (updateCarEvent)="updateCarFormGroupSubmit($event)"></app-fossilecars-update-car-form>
+        -->
+          <app-fossilecars-update-car-form
+            [carData]="element"
+            (updateCarEvent)="updateCarFormGroupSubmit($event)"
+            (deleteCarEvent)="deleteCar($event)"
+            >
+          </app-fossilecars-update-car-form>
+        </div>
+      </td>
+    </ng-container>
 
-  <tr mat-header-row *matHeaderRowDef="columnsToDisplayWithExpand"></tr>
-  <tr mat-row *matRowDef="let element; columns: columnsToDisplayWithExpand;"
-      class="example-element-row"
-      [class.example-expanded-row]="expandedElement === element"
-      (click)="expandedElement = expandedElement === element ? null : element">
-  </tr>
-  <tr mat-row *matRowDef="let row; columns: ['expandedDetail']" class="example-detail-row"></tr>
-</table>
+    <tr mat-header-row *matHeaderRowDef="columnsToDisplayWithExpand"></tr>
+    <tr mat-row *matRowDef="let element; columns: columnsToDisplayWithExpand;"
+        class="example-element-row"
+        [class.example-expanded-row]="expandedElement === element"
+        (click)="expandedElement = expandedElement === element ? null : element">
+    </tr>
+    <tr mat-row *matRowDef="let row; columns: ['expandedDetail']" class="example-detail-row"></tr>
+  </table>
 
-<!-- Add Material table pagination -->
-<mat-paginator [pageSizeOptions]="[5, 10, 20]"
-showFirstLastButtons
-aria-label="Select page of fossile cars"
-color="primary"
->
-</mat-paginator>
+  <!-- Add Material table pagination -->
+  <mat-paginator [pageSizeOptions]="[5, 10, 20]"
+  showFirstLastButtons
+  aria-label="Select page of fossile cars"
+  color="primary"
+  >
+  </mat-paginator>
+
