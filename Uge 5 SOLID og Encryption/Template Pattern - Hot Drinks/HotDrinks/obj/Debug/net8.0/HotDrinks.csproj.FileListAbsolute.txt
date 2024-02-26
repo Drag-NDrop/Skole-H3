@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\bin\Debug\net8.0\HotDrinks.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\bin\Debug\net8.0\HotDrinks.deps.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\bin\Debug\net8.0\HotDrinks.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\bin\Debug\net8.0\HotDrinks.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\bin\Debug\net8.0\HotDrinks.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\obj\Debug\net8.0\HotDrinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\obj\Debug\net8.0\HotDrinks.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\obj\Debug\net8.0\HotDrinks.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\obj\Debug\net8.0\HotDrinks.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\obj\Debug\net8.0\HotDrinks.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\obj\Debug\net8.0\HotDrinks.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\obj\Debug\net8.0\refint\HotDrinks.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\obj\Debug\net8.0\HotDrinks.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\obj\Debug\net8.0\HotDrinks.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Template Pattern - Hot Drinks\HotDrinks\obj\Debug\net8.0\ref\HotDrinks.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\obj\Debug\net8.0\Battle Arena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\obj\Debug\net8.0\Battle Arena.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\obj\Debug\net8.0\Battle Arena.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\obj\Debug\net8.0\Battle Arena.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\obj\Debug\net8.0\Battle Arena.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\bin\Debug\net8.0\Battle Arena.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\bin\Debug\net8.0\Battle Arena.deps.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\bin\Debug\net8.0\Battle Arena.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\bin\Debug\net8.0\Battle Arena.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\bin\Debug\net8.0\Battle Arena.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\obj\Debug\net8.0\Battle Arena.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\obj\Debug\net8.0\refint\Battle Arena.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\obj\Debug\net8.0\Battle Arena.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\obj\Debug\net8.0\Battle Arena.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Battle Arena\obj\Debug\net8.0\ref\Battle Arena.dll

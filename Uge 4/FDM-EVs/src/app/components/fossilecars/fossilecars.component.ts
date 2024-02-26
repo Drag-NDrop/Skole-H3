@@ -57,7 +57,17 @@ import { MatButtonModule } from '@angular/material/button'; // We want to use th
             transition('expanded <=> collapsed', animate('225ms cubic-bezier(0.4, 0.0, 0.2, 1)')),
         ]),
     ],
-    imports: [CommonModule, MatTableModule, MatPaginator, MatPaginatorModule, MatSortModule, FossilecarsCreateCarFormComponent, FossilecarsUpdateCarFormComponent, SeedButtonComponent, MatButtonModule, MatIconModule, DeleteButtonComponent]
+    imports: [CommonModule,
+              MatTableModule,
+              MatPaginator,
+              MatPaginatorModule,
+              MatSortModule,
+              MatButtonModule,
+              FossilecarsCreateCarFormComponent,
+              FossilecarsUpdateCarFormComponent,
+              MatIconModule,
+              SeedButtonComponent,
+              DeleteButtonComponent]
 })
 
 export class FossilecarsComponent implements AfterViewInit {

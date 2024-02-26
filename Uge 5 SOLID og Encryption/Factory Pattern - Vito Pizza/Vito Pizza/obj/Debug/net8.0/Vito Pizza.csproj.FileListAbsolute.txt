@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\obj\Debug\net8.0\Vito Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\obj\Debug\net8.0\Vito Pizza.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\obj\Debug\net8.0\Vito Pizza.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\obj\Debug\net8.0\Vito Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\obj\Debug\net8.0\Vito Pizza.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\bin\Debug\net8.0\Vito Pizza.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\bin\Debug\net8.0\Vito Pizza.deps.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\bin\Debug\net8.0\Vito Pizza.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\bin\Debug\net8.0\Vito Pizza.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\bin\Debug\net8.0\Vito Pizza.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\obj\Debug\net8.0\Vito Pizza.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\obj\Debug\net8.0\refint\Vito Pizza.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\obj\Debug\net8.0\Vito Pizza.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\obj\Debug\net8.0\Vito Pizza.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Factory Pattern - Vito Pizza\Vito Pizza\obj\Debug\net8.0\ref\Vito Pizza.dll
