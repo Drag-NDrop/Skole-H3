@@ -1,0 +1,28 @@
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\DES\bin\Debug\net7.0\DES.exe
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\DES\bin\Debug\net7.0\DES.dll.config
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\DES\bin\Debug\net7.0\DES.deps.json
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\DES\bin\Debug\net7.0\DES.runtimeconfig.json
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\DES\bin\Debug\net7.0\DES.dll
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\DES\bin\Debug\net7.0\DES.pdb
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\DES\obj\Debug\net7.0\DES.csproj.AssemblyReference.cache
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\DES\obj\Debug\net7.0\DES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\DES\obj\Debug\net7.0\DES.csproj.CoreCompileInputs.cache
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\DES\obj\Debug\net7.0\DES.dll
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\DES\obj\Debug\net7.0\refint\DES.dll
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\DES\obj\Debug\net7.0\DES.pdb
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\DES\obj\Debug\net7.0\DES.genruntimeconfig.cache
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\DES\obj\Debug\net7.0\ref\DES.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\DES\bin\Debug\net7.0\DES.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\DES\bin\Debug\net7.0\DES.dll.config
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\DES\bin\Debug\net7.0\DES.deps.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\DES\bin\Debug\net7.0\DES.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\DES\bin\Debug\net7.0\DES.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\DES\bin\Debug\net7.0\DES.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\DES\obj\Debug\net7.0\DES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\DES\obj\Debug\net7.0\DES.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\DES\obj\Debug\net7.0\DES.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\DES\obj\Debug\net7.0\DES.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\DES\obj\Debug\net7.0\refint\DES.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\DES\obj\Debug\net7.0\DES.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\DES\obj\Debug\net7.0\DES.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\DES\obj\Debug\net7.0\ref\DES.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\bin\Debug\net8.0\HjaelpJakob.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\bin\Debug\net8.0\HjaelpJakob.deps.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\bin\Debug\net8.0\HjaelpJakob.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\bin\Debug\net8.0\HjaelpJakob.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\bin\Debug\net8.0\HjaelpJakob.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\obj\Debug\net8.0\HjaelpJakob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\obj\Debug\net8.0\HjaelpJakob.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\obj\Debug\net8.0\HjaelpJakob.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\obj\Debug\net8.0\HjaelpJakob.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\obj\Debug\net8.0\HjaelpJakob.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\obj\Debug\net8.0\HjaelpJakob.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\obj\Debug\net8.0\refint\HjaelpJakob.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\obj\Debug\net8.0\HjaelpJakob.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\obj\Debug\net8.0\HjaelpJakob.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Single Responsibility\HjaelpJakob\obj\Debug\net8.0\ref\HjaelpJakob.dll

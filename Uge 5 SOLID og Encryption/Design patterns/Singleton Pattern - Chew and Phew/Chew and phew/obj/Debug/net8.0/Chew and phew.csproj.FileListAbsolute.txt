@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\bin\Debug\net8.0\Chew and phew.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\bin\Debug\net8.0\Chew and phew.deps.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\bin\Debug\net8.0\Chew and phew.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\bin\Debug\net8.0\Chew and phew.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\bin\Debug\net8.0\Chew and phew.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\obj\Debug\net8.0\Chew and phew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\obj\Debug\net8.0\Chew and phew.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\obj\Debug\net8.0\Chew and phew.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\obj\Debug\net8.0\Chew and phew.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\obj\Debug\net8.0\Chew and phew.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\obj\Debug\net8.0\Chew and phew.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\obj\Debug\net8.0\refint\Chew and phew.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\obj\Debug\net8.0\Chew and phew.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\obj\Debug\net8.0\Chew and phew.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Chew and Phew\Chew and phew\obj\Debug\net8.0\ref\Chew and phew.dll

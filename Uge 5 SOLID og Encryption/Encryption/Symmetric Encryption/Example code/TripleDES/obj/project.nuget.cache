@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "212s2ZsRALBLFO2twQsr5D3IpBK3PaGtAmdW8qnC56po9ZZIXVLx5hpMhblqGw4+5mUEty4iaW/a17PZjA1rXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\GitHub\\Skole-H3\\Uge 5 SOLID og Encryption\\Encryption\\Symmetric Encryption\\Example code\\TripleDES\\TripleDES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

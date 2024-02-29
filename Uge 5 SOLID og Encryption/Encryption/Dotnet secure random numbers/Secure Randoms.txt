@@ -1,0 +1,6 @@
+using System.Security.Cryptography; 
+var randomNumberGenerator = RandomNumberGenerator.Create();
+// Antal bytes afhænger af datatypen (her bruger vi 4 bytes til et int)
+byte[] randomBytes = new byte[4]; randomNumberGenerator.GetBytes(randomBytes); 
+// Konverterer byte-arrayet til en int
+int randomNumber = BitConverter.ToInt32(randomBytes, 0); 

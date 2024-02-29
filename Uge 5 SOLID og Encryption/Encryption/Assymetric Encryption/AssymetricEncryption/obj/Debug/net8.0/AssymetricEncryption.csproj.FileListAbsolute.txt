@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\obj\Debug\net8.0\AssymetricEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\obj\Debug\net8.0\AssymetricEncryption.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\obj\Debug\net8.0\AssymetricEncryption.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\obj\Debug\net8.0\AssymetricEncryption.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\obj\Debug\net8.0\AssymetricEncryption.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\bin\Debug\net8.0\AssymetricEncryption.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\bin\Debug\net8.0\AssymetricEncryption.deps.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\bin\Debug\net8.0\AssymetricEncryption.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\bin\Debug\net8.0\AssymetricEncryption.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\bin\Debug\net8.0\AssymetricEncryption.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\obj\Debug\net8.0\AssymetricEncryption.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\obj\Debug\net8.0\refint\AssymetricEncryption.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\obj\Debug\net8.0\AssymetricEncryption.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\obj\Debug\net8.0\AssymetricEncryption.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Assymetric Encryption\AssymetricEncryption\obj\Debug\net8.0\ref\AssymetricEncryption.dll

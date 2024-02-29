@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gb5g5Thuw18jwTjtUAzlWwWZzlzHmuILl29NqP2Ya+p5BQj3qS0pcbm3Ykurpr4ZWHhVcHV17HhVXVw23wuHsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\GitHub\\Skole-H3\\Uge 5 SOLID og Encryption\\Encryption\\Symmetric Encryption\\Example code\\DES\\DES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

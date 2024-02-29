@@ -48,6 +48,7 @@ namespace EncryptionMethods
             Console.WriteLine("Please enter the key for the HMAC:");
             string key = Console.ReadLine();
             myMAC = new HMACSHA256(Encoding.UTF8.GetBytes(key));
+            Console.WriteLine( myMAC.ComputeHash(myMAC.Hash));
             Console.WriteLine("Hex value of the HMACSHA256: " + ByteArrayToHexString(myMAC.Hash));
             return myMAC;
         }

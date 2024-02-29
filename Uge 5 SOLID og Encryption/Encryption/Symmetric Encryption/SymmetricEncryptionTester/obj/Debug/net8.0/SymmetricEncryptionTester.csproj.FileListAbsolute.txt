@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\bin\Debug\net8.0\SymmetricEncryptionTester.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\bin\Debug\net8.0\SymmetricEncryptionTester.deps.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\bin\Debug\net8.0\SymmetricEncryptionTester.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\bin\Debug\net8.0\SymmetricEncryptionTester.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\bin\Debug\net8.0\SymmetricEncryptionTester.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\obj\Debug\net8.0\SymmetricEncryptionTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\obj\Debug\net8.0\SymmetricEncryptionTester.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\obj\Debug\net8.0\SymmetricEncryptionTester.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\obj\Debug\net8.0\SymmetricEncryptionTester.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\obj\Debug\net8.0\SymmetricEncryptionTester.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\obj\Debug\net8.0\SymmetricEncryptionTester.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\obj\Debug\net8.0\refint\SymmetricEncryptionTester.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\obj\Debug\net8.0\SymmetricEncryptionTester.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\obj\Debug\net8.0\SymmetricEncryptionTester.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\SymmetricEncryptionTester\obj\Debug\net8.0\ref\SymmetricEncryptionTester.dll

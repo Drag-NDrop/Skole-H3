@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DJ7rDBssDNGb5kvTbMdfg+PeJ4jf+SffIuz+avelT+2hFXsibvoI1z6XAYKOeI5HHFQ8qcS4ZDtvjyw1b1eDPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\GitHub\\Skole-H3\\Uge 5 SOLID og Encryption\\Encryption\\Symmetric Encryption\\Example code\\AES\\AES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

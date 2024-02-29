@@ -1,0 +1,28 @@
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\TripleDES\bin\Debug\net7.0\TrippleDES.exe
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\TripleDES\bin\Debug\net7.0\TrippleDES.dll.config
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\TripleDES\bin\Debug\net7.0\TrippleDES.deps.json
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\TripleDES\bin\Debug\net7.0\TrippleDES.runtimeconfig.json
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\TripleDES\bin\Debug\net7.0\TrippleDES.dll
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\TripleDES\bin\Debug\net7.0\TrippleDES.pdb
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\TripleDES\obj\Debug\net7.0\TripleDES.csproj.AssemblyReference.cache
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\TripleDES\obj\Debug\net7.0\TripleDES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\TripleDES\obj\Debug\net7.0\TripleDES.csproj.CoreCompileInputs.cache
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\TripleDES\obj\Debug\net7.0\TrippleDES.dll
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\TripleDES\obj\Debug\net7.0\refint\TrippleDES.dll
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\TripleDES\obj\Debug\net7.0\TrippleDES.pdb
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\TripleDES\obj\Debug\net7.0\TripleDES.genruntimeconfig.cache
+C:\Users\mkc\Mit drev\RINGSTED\H4\Programmering\Softwaretest og sikkerhed\practical-cryptography-dotnet (1)\5-practical-cryptography-dotnet-m5-exercise-files\TripleDES\obj\Debug\net7.0\ref\TrippleDES.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\TripleDES\bin\Debug\net7.0\TrippleDES.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\TripleDES\bin\Debug\net7.0\TrippleDES.dll.config
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\TripleDES\bin\Debug\net7.0\TrippleDES.deps.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\TripleDES\bin\Debug\net7.0\TrippleDES.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\TripleDES\bin\Debug\net7.0\TrippleDES.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\TripleDES\bin\Debug\net7.0\TrippleDES.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\TripleDES\obj\Debug\net7.0\TripleDES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\TripleDES\obj\Debug\net7.0\TripleDES.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\TripleDES\obj\Debug\net7.0\TripleDES.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\TripleDES\obj\Debug\net7.0\TrippleDES.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\TripleDES\obj\Debug\net7.0\refint\TrippleDES.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\TripleDES\obj\Debug\net7.0\TrippleDES.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\TripleDES\obj\Debug\net7.0\TripleDES.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\Encryption\Symmetric Encryption\Example code\TripleDES\obj\Debug\net7.0\ref\TrippleDES.dll

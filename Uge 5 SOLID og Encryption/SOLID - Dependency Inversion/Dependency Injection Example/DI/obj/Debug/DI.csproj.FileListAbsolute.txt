@@ -1,7 +1,0 @@
-c:\users\camr\documents\visual studio 2017\Projects\DI\DI\bin\Debug\DI.exe.config
-c:\users\camr\documents\visual studio 2017\Projects\DI\DI\bin\Debug\DI.exe
-c:\users\camr\documents\visual studio 2017\Projects\DI\DI\bin\Debug\DI.pdb
-c:\users\camr\documents\visual studio 2017\Projects\DI\DI\obj\Debug\DI.csprojResolveAssemblyReference.cache
-c:\users\camr\documents\visual studio 2017\Projects\DI\DI\obj\Debug\DI.csproj.CoreCompileInputs.cache
-c:\users\camr\documents\visual studio 2017\Projects\DI\DI\obj\Debug\DI.exe
-c:\users\camr\documents\visual studio 2017\Projects\DI\DI\obj\Debug\DI.pdb
