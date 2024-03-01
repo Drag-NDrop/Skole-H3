@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssymetricEncryption")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d0ef6f437b6ab6aae2e087e67fbdc120f1a8a53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd1ef8d7a9e40376413c7fd518b54b52efeb4639")]
 [assembly: System.Reflection.AssemblyProductAttribute("AssymetricEncryption")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssymetricEncryption")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
