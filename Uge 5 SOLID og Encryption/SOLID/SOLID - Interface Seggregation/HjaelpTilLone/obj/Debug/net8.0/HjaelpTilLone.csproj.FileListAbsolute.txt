@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\bin\Debug\net8.0\HjaelpTilLone.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\bin\Debug\net8.0\HjaelpTilLone.deps.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\bin\Debug\net8.0\HjaelpTilLone.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\bin\Debug\net8.0\HjaelpTilLone.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\bin\Debug\net8.0\HjaelpTilLone.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\obj\Debug\net8.0\HjaelpTilLone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\obj\Debug\net8.0\HjaelpTilLone.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\obj\Debug\net8.0\HjaelpTilLone.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\obj\Debug\net8.0\HjaelpTilLone.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\obj\Debug\net8.0\HjaelpTilLone.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\obj\Debug\net8.0\HjaelpTilLone.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\obj\Debug\net8.0\refint\HjaelpTilLone.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\obj\Debug\net8.0\HjaelpTilLone.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\obj\Debug\net8.0\HjaelpTilLone.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Interface Seggregation\HjaelpTilLone\obj\Debug\net8.0\ref\HjaelpTilLone.dll
