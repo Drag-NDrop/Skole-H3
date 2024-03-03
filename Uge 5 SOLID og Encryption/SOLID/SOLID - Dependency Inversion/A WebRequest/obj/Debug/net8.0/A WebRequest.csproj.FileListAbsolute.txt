@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\obj\Debug\net8.0\A WebRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\obj\Debug\net8.0\A WebRequest.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\obj\Debug\net8.0\A WebRequest.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\obj\Debug\net8.0\A WebRequest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\obj\Debug\net8.0\A WebRequest.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\bin\Debug\net8.0\A WebRequest.exe
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\bin\Debug\net8.0\A WebRequest.deps.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\bin\Debug\net8.0\A WebRequest.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\bin\Debug\net8.0\A WebRequest.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\bin\Debug\net8.0\A WebRequest.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\obj\Debug\net8.0\A WebRequest.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\obj\Debug\net8.0\refint\A WebRequest.dll
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\obj\Debug\net8.0\A WebRequest.pdb
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\obj\Debug\net8.0\A WebRequest.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\Skole-H3\Uge 5 SOLID og Encryption\SOLID\SOLID - Dependency Inversion\A WebRequest\obj\Debug\net8.0\ref\A WebRequest.dll
