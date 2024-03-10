@@ -11,21 +11,21 @@ class RandomNumberState {
 
 int increaseRandom(){
   int test  = Random().nextInt(100);
-  if(test+_currentNumber > 100){
+  if(_currentNumber + test > 100){
     return 100;
   }
   else {
-    return test+_currentNumber;
+    return _currentNumber + test;
   }
 }
 
 int decreaseRandom(){
   int test  = Random().nextInt(_currentNumber);
-  if(test-_currentNumber < 0){
-    return 0;
+  if(_currentNumber - test >= 0){
+    return _currentNumber - test;
   }
   else {
-    return test-_currentNumber;
+    return 0;
   }
 }
 

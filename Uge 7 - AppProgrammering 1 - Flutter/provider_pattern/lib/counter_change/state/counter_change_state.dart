@@ -7,24 +7,22 @@ class CounterChangeState {
  int get currentValue => _currentNumber;
 
 
-CounterChangeState init() {
-  return CounterChangeState().._currentNumber = 0;
-}
+  CounterChangeState init() {
+    return CounterChangeState().._currentNumber = 0;
+  }
 
-CounterChangeState increment(CounterChangeState currentState){
-  print(currentState._currentNumber);
-  return CounterChangeState()
-  .._currentNumber = currentState.currentValue
-  .._currentNumber += 1;
-  
-
-}
+  CounterChangeState increment(CounterChangeState currentState){
+    print(currentState._currentNumber);
+    return CounterChangeState()
+    .._currentNumber = currentState.currentValue
+    .._currentNumber += 1;
+  }
 
 
-CounterChangeState decrement(CounterChangeState currentState){
-  print(currentState._currentNumber);
-  return CounterChangeState()
-  .._currentNumber = currentState.currentValue
-  .._currentNumber = _currentNumber == 0 ? 0 : _currentNumber -= 1;
-}
+  CounterChangeState decrement(CounterChangeState currentState){
+    print(currentState._currentNumber);
+    return CounterChangeState()
+    .._currentNumber = currentState.currentValue
+    .._currentNumber = _currentNumber == 0 ? 0 : _currentNumber -= 1;
+  }
 }
