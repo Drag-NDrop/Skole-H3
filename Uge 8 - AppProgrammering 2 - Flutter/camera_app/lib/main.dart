@@ -279,9 +279,7 @@ class FullScreenImageScreen extends StatelessWidget {
 
 late List<CameraDescription> _cameras;
 
-/// CameraApp is the Main Application.
 class CameraApp extends StatefulWidget {
-  /// Default Constructor
   const CameraApp({super.key});
 
   @override
@@ -337,8 +335,7 @@ class _CameraAppState extends State<CameraApp> {
         children: [
           CameraPreview(controller),
           Padding(
-            padding:
-                const EdgeInsets.only(top: 10.0), // Adjust the value as needed
+            padding: const EdgeInsets.only(top: 10.0),
             child: Row(
               children: [
                 FloatingActionButton(
