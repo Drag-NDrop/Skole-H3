@@ -90,13 +90,13 @@ class _MyWidgetState extends State<MyWidget> {
         child: Draggable<String>(
           data: 'Draggable item',
           child: Icon(Icons.drag_handle),
-          feedback: Icon(Icons.drag_handle),
+          feedback: const Icon(Icons.drag_handle),
           onDragEnd: (details) {
             setState(() {
               droppedItems.add(Positioned(
                 left: details.offset.dx,
                 top: details.offset.dy,
-                child: Icon(Icons.drag_handle),
+                child: const Icon(Icons.drag_handle),
               ));
             });
           },

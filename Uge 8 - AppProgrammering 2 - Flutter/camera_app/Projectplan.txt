@@ -5,7 +5,7 @@ local storage
 base64
 StatelessWidget
 GoRouter
-
+universal_html
 
 
 
@@ -14,6 +14,9 @@ Desired internals
 I want to use a bloc to encapsulate the businesslogic in the blocState, and use it to guide the app, based on user events.
 
 HUSK at mht. localstorage, skal man bruge GetExternal, for at få fat i den rigtige storage!
+
+HUSK: Avd loopback addresse: 10.0.2.2
+
 
 Desired layout
 --------------
@@ -30,6 +33,17 @@ A burger menu with 2 choices.
             - Use localstorage and base64 dependency 
         1 listbox to show the available pictures
             - Base64 Decode
+
+
+Classes:
+
+DroppedItem
+    Adds positioning to the raw images, so the canvas(stack) knows how to position them.
+
+ImageDef
+    Holds the images from the API, and structures them before sending them to the API to.
+
+
 
 Dependency addition commands:
     Flutter Bloc:
@@ -57,3 +71,19 @@ Dependency addition commands:
         Import string: import 'dart:convert';
         Docs: https://api.dart.dev/stable/3.3.0/dart-convert/dart-convert-library.html
         Installed: Yes - using native Dart:convert
+    
+    Universal_io:
+        Command: flutter pub add universal_io
+        Docs: https://pub.dev/packages/universal_io/example
+        Installed: Yes
+
+
+
+    Spinkit
+        Command: flutter pub add flutter_spinkit
+        Docs: https://pub.dev/packages/flutter_spinkit
+        Installed: Yes
+
+
+    Integration tests:
+    flutter pub add 'dev:flutter_test:{"sdk":"flutter"}'  'dev:integration_test:{"sdk":"flutter"}
