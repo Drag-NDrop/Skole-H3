@@ -105,18 +105,23 @@ class _TakePictureScreenState extends State<TakePictureScreen> {
                   base64image: imageString, offset: const Offset(0.1, 0.1));
 
               // Save the image using the repository
-              bool success = (await context
+              bool success = await context
                   .read<CameraBloc>()
                   .state
                   .repository
-                  .saveImage(image));
+                  .saveImage(image);
 
-              if (await success) {
+              if (success) {
                 // Update the UI
                 print("Successfully saved the picture to the repository...");
 
                 setState(() {
-                  images.add(imageString);
+                  images.insert(0, imageString);
+                  context
+                      .read<CameraBloc>()
+                      .state
+                      .imageDefImages
+                      .insert(0, image);
                 });
               } else {
                 print(
@@ -125,7 +130,7 @@ class _TakePictureScreenState extends State<TakePictureScreen> {
             },
             child: (const Icon(Icons.camera_alt)),
           ),
-          if (images.isNotEmpty)
+          if (context.watch<CameraBloc>().state.imageDefImages.isNotEmpty)
             Padding(
               padding:
                   const EdgeInsets.only(top: 3.0), // Adjust the value as needed
@@ -133,11 +138,14 @@ class _TakePictureScreenState extends State<TakePictureScreen> {
                 height: 30, // Set the height of the ListView
                 child: ListView.builder(
                   scrollDirection: Axis.horizontal,
-                  itemCount: images.length,
+                  itemCount:
+                      context.read<CameraBloc>().state.imageDefImages.length,
                   itemBuilder: (context, index) {
+                    ImageDef imageDef =
+                        context.read<CameraBloc>().state.imageDefImages[index];
                     return Container(
                       width: 60, // Set the width of each image
-                      child: Image.memory(base64Decode(images[index]),
+                      child: Image.memory(base64Decode(imageDef.base64image),
                           fit: BoxFit.cover),
                     );
                   },

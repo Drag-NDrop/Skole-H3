@@ -28,6 +28,7 @@ class CameraState {
   ImageRepository get repository => _repository;
   set repository(ImageRepository value) {
     _repository = value;
+    _repository.loadImages();
   }
 
   Settings settings = Settings();
@@ -43,8 +44,8 @@ class CameraState {
     // this.imageDefImages = await _repository.loadImages(); // populate the class's imageDefImages
     // Then populate the class's imageDefWidgets. Just in case anyone want it, return it as well.
     // if the caller doesn't want it, the caller is free to discard it.
-    imageDefWidgets = List.empty(
-        growable: true); // Reset the imageDefWidgets, so we don't get doubles.
+    imageDefWidgets
+        .clear(); // Reset the imageDefWidgets, so we don't get doubles.
     for (ImageDef image in imageDefImages) {
       Widget imageWidget = Container(
         width: 25, // Set the width of each image
@@ -56,7 +57,7 @@ class CameraState {
     return imageDefWidgets;
   }
 
-  Future<List<Widget>> generateSingleImageWidget(ImageDef image) async {
+  Future<void> generateSingleImageWidget(ImageDef image) async {
     // this.imageDefImages = await _repository.loadImages(); // populate the class's imageDefImages
     // Then populate the class's imageDefWidgets. Just in case anyone want it, return it as well.
     // if the caller doesn't want it, the caller is free to discard it.
@@ -64,9 +65,8 @@ class CameraState {
       width: 25, // Set the width of each image
       child: Image.memory(image.imageData, fit: BoxFit.cover),
     );
-    imageDefWidgets.add(imageWidget);
+    this.imageDefWidgets.insert(0, imageWidget);
 
     print("Done processing imageDefImages. Returning results...");
-    return imageDefWidgets;
   }
 }

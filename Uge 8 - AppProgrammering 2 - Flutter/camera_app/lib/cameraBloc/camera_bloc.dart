@@ -28,7 +28,10 @@ class CameraBloc extends Bloc<CameraEvent, CameraState> {
       // Check if the image was saved successfully
       if (success) {
         // If the image was saved successfully, add it to the state
-        state.imageDefImages.add(event.image);
+        state.imageDefImages.insert(
+            0,
+            event
+                .image); // Make sure the image shows up as the first on the listView, so the user knows/has proof, the image was taken
         await state.generateSingleImageWidget(event.image);
       }
 
