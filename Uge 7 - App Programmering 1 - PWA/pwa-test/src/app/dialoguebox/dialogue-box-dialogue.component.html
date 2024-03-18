@@ -1,0 +1,11 @@
+<mat-dialog-content class="mat-typography">
+  <h3>Edit</h3>
+  <p>Name: {{data.imageObject.name}} </p>
+  <p>Size: {{data.imageObject.file.size}} </p>
+  <p>Type: {{data.imageObject.file.type}} </p>
+
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-button mat-dialog-close>Cancel</button>
+  <button mat-button [mat-dialog-close]="true" cdkFocusInitial>Apply changes</button>
+</mat-dialog-actions>
